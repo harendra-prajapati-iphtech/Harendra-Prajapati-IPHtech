@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>😍 Also i am proficient in Hybrid App development with Flutter.<br>🔖 Certified from Google in Python & from IBM in Java.<br>👯 I’m looking to collaborate on.<br>🤝 I’m looking for help with.<br>🌱 I’m currently learning.<br>💬 Ask me about Java, Python.<br>⚡ Fun fact at Status Life Entertainment.
+🔭 I am currently working on AI and Data Science with the powers of Python in Data Science.<br>😍 Also i am proficient in full stack web development.<br>🔖 Certified from Google in Python & from IBM in Java.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python.<br>⚡ Fun fact at Status Life Entertainment.
 
 
 ## 🌐 Socials:
