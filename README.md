@@ -26,10 +26,15 @@
  
 [![Harendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harendra-Prajapati-IPHtech&bg_color=090708&color=ff47f3&line=0ecc00&point=083cd9&area=true&hide_border=true)](https://github.com/Harendra-Prajapati-IPHtech/github-readme-activity-graph)
 
-
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harendra-Prajapati-IPHtech&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harendra-Prajapati-IPHtech&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harendra-Prajapati-IPHtech&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harendra-Prajapati-IPHtech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+ 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=helloharendra)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
