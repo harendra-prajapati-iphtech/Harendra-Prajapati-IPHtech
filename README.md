@@ -1,24 +1,10 @@
 ### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Harendra-Prajapati-IPHtech
-
 # 💫About Me :
-- I am currently working on **AI and Data Science** with the powers of Python in Data Science
-- Also i am proficient in Android App development with Java😡/Kotlin🧡 
+- I am currently working on **AI and Data Science** with the powers of Python in Data Science.
+- Also i am proficient in Hybrid App development with Flutter. 
 - Certified from Google in Android & from microsoft and IBM in python.
-- 💼 Professional Coding Trainer at [Digipodium](https://digipodium.com)
-- 🏓 Video games and Books from Brandon Sanderson and TV shows
+- 💼 Professional Coding Trainer at [IPH technologies Pvt.Ltd.](https://iphtechnologies.com/)
+- 🏓 Video games and Movies.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerngamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xaid_kamil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-kamil-94211a40) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaid-kamil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/XaidKamil)
